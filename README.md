@@ -34,12 +34,12 @@ College "Contact Us"
 
 ![Contact Us](/screenshots/contactUs.png?raw=true "Contact Us")
 
-The second application is a famouse musicians quiz.
+The second application is the famouse musicians quiz.
 
-Musician quize question
+Musician quiz question
 
-![Musician Quize](/screenshots/musicianQuize.png?raw=true "Musician quize")
+![Musician Quiz](/screenshots/musicianQuiz.png?raw=true "Musician quiz")
 
-Musician quize answer selection
+Musician quiz answer selection
 
-![Musician quize answer selection](/screenshots/musicianQuizAns.png?raw=true "Musician quize answer selection")
+![Musician quiz answer selection](/screenshots/musicianQuizAnsSel.png?raw=true "Musician quiz answer selection")
