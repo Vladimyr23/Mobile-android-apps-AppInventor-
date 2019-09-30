@@ -42,4 +42,4 @@ Musician quiz question
 
 Musician quiz answer selection
 
-![Musician quiz answer selection](/screenshots/musicianQuizAnsSel.png?raw=true "Musician quiz answer selection")
+![Musician quiz answer selection](/screenshots/musicianQuizAnswerSel.png?raw=true "Musician quiz answer selection")
